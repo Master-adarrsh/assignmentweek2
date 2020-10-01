@@ -1,5 +1,6 @@
 /********** Base styles **********/
 * {
+my new version by adarsh chourasia
   box-sizing: border-box;
   font-family: "Comic Sans MS", cursive, sans-serif;
   color: black;
